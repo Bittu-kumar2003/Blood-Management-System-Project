@@ -5,17 +5,15 @@
   <h2>Overview</h2>
         <p>The <strong>Blood Donation Management System</strong> is a comprehensive Java-based application built using the NetBeans platform. It is designed to manage and streamline the process of blood donation by storing donor information, searching for donors by blood type, and keeping track of blood stock. The system allows users to add new donors, view donor details, and manage blood donation requests from recipients.</p>
     
-
-  
   <h2>Features</h2>
 
-        <h3>1. Homepage</h3>
+   <h3>1. Homepage</h3>
         <ul>
             <li>Displays a welcoming message to users, providing an overview of the available options.</li>
             <li>Users can access different modules such as adding donors, viewing donor details, and more.</li>
         </ul>
 
-        <h3>2. Add New Donor</h3>
+   <h3>2. Add New Donor</h3>
         <img src="Screenshot%20(457).png" alt="Add New Donor" width="800">
         <ul>
             <li>Users can register a new donor by providing all necessary information, including:
@@ -32,7 +30,7 @@
             <li>The form allows users to save or reset the data as needed.</li>
         </ul>
 
-        <h3>3. Search Blood Group</h3>
+   <h3>3. Search Blood Group</h3>
         <img src="Screenshot%20(458).png" alt="Search Blood Group" width="800">
         <ul>
             <li>Users can search for available donors by entering a specific blood group.</li>
@@ -45,9 +43,8 @@
             <li>Users can also print the search results.</li>
         </ul>
     </section>
-
-    <section id="system-requirements">
-        <h2>System Requirements</h2>
+    
+   <h2>System Requirements</h2>
         <ul>
             <li><strong>Programming Language</strong>: Java</li>
             <li><strong>Platform</strong>: NetBeans IDE</li>
@@ -55,8 +52,8 @@
         </ul>
     </section>
 
-    <section id="installation">
-        <h2>Installation</h2>
+   
+   <h2>Installation</h2>
         <ol>
             <li>Clone the repository or download the ZIP file.
                 <pre><code>git clone &lt;repository-link&gt;</code></pre>
@@ -66,8 +63,8 @@
         </ol>
     </section>
 
-    <section id="usage">
-        <h2>Usage</h2>
+   
+   <h2>Usage</h2>
         <ul>
             <li><strong>Add New Donor</strong>: Use the "Add New Donor" menu option to register new donors by providing all necessary information.</li>
             <li><strong>Search Blood Donor</strong>: Use the "Search Blood Donor" option to search for a donor based on the required blood group.</li>
@@ -76,43 +73,35 @@
         </ul>
     </section>
 
-    <section id="screenshots">
-        <h2>Screenshots</h2>
+    
+   <h2>Screenshots</h2>
         <h3>1. Homepage</h3>
         <img src="Screenshot%20(456).png" alt="Homepage" width="800">
 
-        <h3>2. Add New Donor</h3>
+   <h3>2. Add New Donor</h3>
         <img src="Screenshot%20(457).png" alt="Add New Donor" width="800">
 
-        <h3>3. Search Blood Group</h3>
+  <h3>3. Search Blood Group</h3>
         <img src="Screenshot%20(458).png" alt="Search Blood Group" width="800">
     </section>
 
-    <section id="results">
-        <h2>Results</h2>
+
+   <h2>Results</h2>
         <ul>
             <li>The system successfully manages donor information and makes it easy to search for available donors by blood group.</li>
             <li>Users can efficiently add new donors and manage blood donation requests.</li>
             <li>The system’s user-friendly interface and search functionalities make it easy to manage blood stock and keep track of donors.</li>
         </ul>
-    </section>
-
-    <section id="contributing">
-        <h2>Contributing</h2>
+    
+    
+   <h2>Contributing</h2>
         <p>Contributions are welcome! If you find any issues or want to add new features, feel free to create a pull request or raise an issue.</p>
-    </section>
-
-    <section id="license">
-        <h2>License</h2>
-        <p>This project is licensed under the MIT License - see the LICENSE file for details.</p>
-    </section>
-
-    <section id="documentation">
-        <h2>Documentation</h2>
+  
+   <h2>Documentation</h2>
         <p>For detailed documentation, refer to the Java and NetBeans official documentation:</p>
         <ul>
             <li><a href="https://docs.oracle.com/javase/8/docs/">Java Documentation</a></li>
             <li><a href="https://netbeans.apache.org/kb/">NetBeans Documentation</a></li>
         </ul>
-    </section>
+   
         
