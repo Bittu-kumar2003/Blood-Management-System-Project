@@ -54,7 +54,7 @@
 <h2>Installation</h2>
         <ol>
             <li>Clone the repository or download the ZIP file.
-                <pre><code>git clone &lt;https://github.com/Bittu-kumar2003/Blood-Management-System-Project.git&gt;</code></pre>
+                <pre><code>https://github.com/Bittu-kumar2003/Blood-Management-System-Project/tree/master</code></pre>
             </li>
             <li>Open the project in NetBeans IDE.</li>
             <li>Build and run the project.</li>
@@ -69,7 +69,7 @@
             <li><strong>Receiver Requests</strong>: Register requests from receivers and match them with suitable donors.</li>
         </ul>
     
-<h2>Image/h2>
+<h2>Image</h2>
  <h3>1. Login Page</h3>
  
 ![Screenshot (460)](https://github.com/user-attachments/assets/9ebf4219-3910-485c-ac40-7505ce824003)
